@@ -1,7 +1,7 @@
 ## Table of contents / Índice
 * [General info](#general-info)
 * [Technologies](#technologies)
-* [Setup](#setup)
+* [Covid-19](https://github.com/juansokil/Covid-19)
 
 ## General info
 This project is simple Lorem ipsum dolor generator.
