@@ -1,4 +1,4 @@
-## Table of contents
+## Table of contents / Índice
 * [General info](#general-info)
 * [Technologies](#technologies)
 * [Setup](#setup)
@@ -20,3 +20,4 @@ $ cd ../lorem
 $ npm install
 $ npm start
 ```
+
