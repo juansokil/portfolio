@@ -1,10 +1,16 @@
 ## Table of contents / Índice
-* [General info](#general-info)
-* [ETL - non sql](https://github.com/juansokil/portfolio/blob/main/ETL-non-sql-data/ETL%20json%20data.%20Python%20and%20Elasticsearch%20.ipynb)
+
+*  Data Engineering
+	* [ETL - non sql](https://github.com/juansokil/portfolio/blob/main/ETL-non-sql-data/ETL%20json%20data.%20Python%20and%20Elasticsearch%20.ipynb)
+
+*  Natural Language Processing
+	* [Bert - for Text Classification](https://github.com/juansokil/portfolio/blob/main/Bert-for-text-classification/Bert_For_Text_Classification.ipynb)
+
+* Data visualization
 * [Covid-19](https://github.com/juansokil/Covid-19)
 
 ## General info
-This project is simple Lorem ipsum dolor generator.
+This is a portfolio
 	
 ## Technologies
 Project is created with:
