@@ -1,0 +1,151 @@
+text	label_etiqueta	label
+Servicio pesimo y muy caro para la calidad 	Precio	1
+Es muy caro para lo que ofreces 	Precio	1
+No puedo grabar programas. Cuando tengo programas grabados se cortan antes de terminar.	Servicio	0
+NO VEO FLOW NO QUIERO QUE ME LO COBREN Y DESDE YA ESTOY AVERIGUANDO CABLE  E INTERNET MAS ECONOMICO	Precio	1
+Se tilda mucho	Servicio	0
+El mal servicio, las series y peliculas viejas y ya vistas miles de veces,los partudis de ka copa america solo pasaron algunos,en un solo canal, lo mismo la eurocopa,cada vez nos sacan mas canales, y los q aparecen niuevos solo uds lo conocen,el servicio en genera es malo y caro x lo q ofrecen	Precio	1
+Esta andando muy mal la interfaz, precio elevado	Precio	1
+La programacion esta muy repetida. Programas viejos, muy pocas cosas nuevas	Contenido	2
+Muchas veces, demasiadas, cuando quise ver un programa anterio, me salto error. Demasiadas veces para lo que cobran.	Servicio	0
+Que la mayoria de las peliculas estan en ingles	Servicio	0
+carisimo	Precio	1
+precio carisimo	Precio	1
+No tienen titulos en cantidad y calidad	Contenido	2
+Fallas , cuelgues, reinicios , carteles de programacion no disponible , Que mas !!!!!	Servicio	0
+Muy caro respecto de las otras operadoras de cable	Precio	1
+Se vive cortando	Servicio	0
+no tiene buenas series y peliculas	Contenido	2
+Muy caro. Muchos canales inutiles.	Precio	1
+no puedo grabar con este que tengo y en mi otra casa si	Servicio	0
+No hay variedad	Contenido	2
+Mala programacion. Peliculas viejas y repetidas	Contenido	2
+Se vive cortando el servicio, y las actualizaciones son pocas.	Servicio	0
+Es muy caro. Estoy pensando en darlo de baja	Precio	1
+costos	Precio	1
+Es muy caro y para ver todo el contenido en ocaciones tenes que pagar aparte	Precio	1
+Mucha publicidad e infomerciales.	Contenido	2
+FUNCIONA mal , llamas para que lo arreglen y no vienen dicen que te llaman y no.pasa nada es carisimo con respecto a otros como Claro 	Precio	1
+No estoy conforme , casi ninguna pelicula se oueden oir en castellano y muchas peliculas son con costo y por la cuota de suscripcion me parese que se deberia tener mas capasidad de ver sin costos 	Contenido	2
+Se corta mucho 	Servicio	0
+Es carisimo	Precio	1
+No. Funciona siempre	Servicio	0
+Es poco prctico el sistema de busqiueda de peliculas o series	Contenido	2
+Porque en ocasiones el servicio no funciona en forma optima	Servicio	0
+por el costo y por como funcionan los deco	Precio	1
+Muy caro	Precio	1
+el servicio es malo. caro. se cae. es todo malo.	Precio	1
+Se paga carisimo y no funcionan bien los conversores	Servicio	0
+Tecnicamente es un desastre, imposible conectarse con el celular en grandes eventos, el deco se cuelga a repeticion	Servicio	0
+Sigue siendo muy costoso y no tiene mucho contenido. 	Precio	1
+Costo 	Precio	1
+Muchos cortes del servicio, muchas problemas con el decodificador y alto el precio de la factura	Precio	1
+Se repiten mucho series y peliculas	Contenido	2
+Precio muy alto	Precio	1
+No tiene nada,muy caro	Precio	1
+Es caro y no tiene buen contenido.	Precio	1
+Cuando reinicio peliculas para verlas desde el principio, ultimamente al llegar a los 10 minutos finales se corta y no puedo terminar de ver ninguna 	Servicio	0
+poca  renovacion y poca variedad	Contenido	2
+Escaso contenido 	Contenido	2
+Elevado costo comparado con otras empresas similares	Precio	1
+Ahorran en codificadores sacrificando calidad de experiencia, por lo cual todo lo bueno que ofrece, al no funcionar es lo mismo que no tenerlo. Y son engañosos con los packs, ejemplo el de futbol, que promocionaban la Eurocopa y los partidos importantes lo pasa la competencia gratis 	Servicio	0
+El sistema no es claro, es dificil encontrar el contenido que uno busca. Al ver TV en vivo, la imagen se pixela.	Contenido	2
+es caro y el servicio muchas veces no funciona	Precio	1
+Precio alto por el producto que ofrecen en comparacion a otras plataformas de contenido. Tiene errores en la grabacion de los programas y la reproduccion de programas pasados (las ultimas 24hs)	Precio	1
+por momentos no se puede rebobinar o poner pausa etc.	Servicio	0
+No funciona muy bien	Servicio	0
+Poca variedad y las nuevas hay que pagarlas	Contenido	2
+Nunca funciona correctamente, ni cumple su funcion.	Servicio	0
+no funciona bien , no me puedo comunicar , y cada ves es caro	Precio	1
+no es muy buena la cartelera de canales, muchas repeticiones de series o peliculas al mismo tiempo en distintos canales.	Contenido	2
+Se bloquea siempre y las peliculas son viejas	Contenido	2
+Malas peliculas 	Contenido	2
+Muy caro	Precio	1
+me dejaron sin internet durante 5 dias muy disconforme y muy caro	Precio	1
+Es buena la posibilidad de poder ver programas en horarios diferentes, Pero por pc hay canales que no funcionan	Servicio	0
+Costo-beneficio. Constantemente tengo que reiniciar el aparato porque al prender se escucha el sonido pero no hay imagen	Precio	1
+Pocos canales de peliculas. Exigen pagar otros canales.	Contenido	2
+siempre la misma programacion, hay canales que siempre pasan lo  mismo semanas tras semanas, no hay nada nuevo 	Contenido	2
+muy caro ,faltan opciones	Precio	1
+no me satisface porque lo que quiero ver me lo cobran aparte 	Precio	1
+Pocas series y peliculas interesantes	Contenido	2
+no funciona fluidamente 	Servicio	0
+Es  muy caro	Precio	1
+Esta andando mal, se corta todo el tiempo y ahora vino un aumento que ni siquiera avisaron	Precio	1
+Es caro y tiene poca programacion 	Precio	1
+Porque  quiese ver un partido de futbol y se trababa y el relato iba mas rapido que la imagen	Servicio	0
+Malisima progamacion	Contenido	2
+los diferentes canales que ofrece NO ESTAN TRADUCIDOS AL ESPAÑOL ademas de que ofrecen cosas re-antiguas	Servicio	0
+La tarifa es cada vez mas alta, el servicio es basico frente a otros proveedores.	Precio	1
+Nunca funciona nunca te llama el soporte tecnico para arreglar ! Lo unico que hacen es reiniciar el modem y nunca se puede ver los programacion que ya pasaron 	Servicio	0
+Se cuelga , he querido ver un programa que no pude verpor trabajar y en muchas ocasiones dice que no se puede, insisto pero no se puede y como tiene 24 hr despues ya no se puede ver,, lo he buscado por el nombre y tampoco hay acceso, tendria que tener mas tiempo 	Servicio	0
+No paran de aumentar el precio ilegalmente ! Ya lo hicieron hace unos meses y me mintieron cuando reclame y ahora vuelven a aumentar??? Es una estafa	Precio	1
+Mala calidad. Microcortes todo el tiempo. La guia de canales no coincide nunca con lo que estan dando. Producto carisimo. Entre cable e internet casi 7000 pesos x mes. Solo de luz pago 1500. Y no tiene comparacion. En cualquier momento lo doy de baja	Precio	1
+El contenido en peliculas sin cargo es medicre / malo	Contenido	2
+Poca de cartelera	Contenido	2
+Que cuando quiero ver algo siempre hay algun problema no es cierto que podes ver lo que queres cuando quieras 	Servicio	0
+la programacion y el servicio el malisimo	Contenido	2
+falta de estrenos	Contenido	2
+No anda! Lo unico que puedo hacer es ver TV en vivo. Como que sigan aSi lo cancelo 	Servicio	0
+todos los dias tiene problemas  escuchar la radio o escuchar musica . Se corta en forma permanente . Pueden verificar mis reclamos 	Servicio	0
+Poca variedad de series o las que estan son muy viejas	Contenido	2
+Se cuelga siempre	Servicio	0
+No tiene variedad 	Contenido	2
+Mucho para alquilar, poco para ver sin pagar	Contenido	2
+Mucho canales al Pepe. Y en otras teles que tiene la aplicacion no funcionan bien o la tele deja de tener esa app	Contenido	2
+Plataforma inestable, con  muchos problemas de funcionamiento y prestaciones que no funcionan correctamente	Servicio	0
+No anda el deco. No me deja ver series para atras	Servicio	0
+TITULOS BUENOS	Contenido	2
+escuchar musica o radio es un incordio, dura un rato y se corta, hay que estar a cada rato volviendola a poner. No se encuentra facilmente una serie o pelicula promocionada, etc,	Servicio	0
+Muy caro	Precio	1
+NO FUNCIONA BIEN , ES MUY CARO, SE CORTA SEÑAL , NO CONCURRE EL TECNICO EL DIA Y HORA PAUTADA	Precio	1
+Muy costoso y existen alternativas muchisimo mas economicas	Precio	1
+La señal es buena,, pero es MUY cCARO, tratandose de una señal de TV, se paga mas d cable q de servicios. Y para los sueldos de hoy en dia es imposible,pagar	Precio	1
+se cuelga y no deja reproducir canales emitidos, esta muy caro y te dicen que te cambies de compañia para que tengas un descuento siendo que esa compañia no tiene buena señal, no suben series y peliculas nuevas.	Precio	1
+No funciona bien 	Servicio	0
+Las opciones de peliculas y series no son tan buenas si no son pagas.  Y la navegacion en los menues es compleja.	Contenido	2
+porque algunas cosas me gustan pero no ofrece mucha variedad 	Contenido	2
+No tiene titulos muy atrayentes ni exclusivos que no se puedan encontrar en otros sitios similares	Contenido	2
+muchas veces me dice que no puedo ver un programa diferido 	Servicio	0
+Mal Servicio, Muy Caro, Decodificador siempre falla 	Precio	1
+No me atrae el contenido de la programacion que propone. Prefiero ver Netflix	Contenido	2
+no funciona bien, constantemente tengo que desenchufar el aparato	Servicio	0
+Muchas de las series y/o peliculas que hay disponibles no son de mi interes	Contenido	2
+NO SE PUEDEN GRABAR PROGRAMAS NI BORRAR 	Servicio	0
+la falta de ofertas nuevas	Contenido	2
+Servicio basico pero carisimo	Precio	1
+Muy costoso	Precio	1
+Impresentable servicio/precio/atencion 	Precio	1
+Todas las mañanas  tengo cortes cuando quiero escuchar radio mitre	Servicio	0
+No  puedo doblar peliculas. Ademas se corta muy seguido	Servicio	0
+Estoy pensando seriamente en sacarlo. Pasas siempre las mismas peliculas. Pagas los canales premiun y en dos o tres canales te pasan la misma pelicula. Poca renovacion de contenidos.	Contenido	2
+Pocas veces funciona bien muchas veces no se puede grabar no se puede volver o atras â€¦hay mucho q mejorar !!!	Servicio	0
+No muestra lo que ya paso solo algunas cosas	Servicio	0
+SERVICIO MUU CARO Y SE CORTA LA SEÑAL EN VARIAS OPORTUNIDADES	Precio	1
+A veces se corta,es caro y la programacion a veces poco atrayente	Precio	1
+Es dificil encontrar peliculas mas nuevas	Contenido	2
+Muchos problemas  de receptividad	Contenido	2
+aumentan demasiado los precios todo el tiempo	Precio	1
+No me satisface del todo, anda mal muchas veces 	Servicio	0
+no funciona como deberia	Servicio	0
+Me anda mal el deco 	Servicio	0
+Que el 90% del dia funciona pesimo 	Servicio	0
+Eran un monopolio y gracias a dios lo dejaron de ser, aparecio claro, direcTV y muchos otros... son un desastre	Precio	1
+Uso el servicio hace varios años, y en el ultimo tiempo no puedo ver los programas del mismo dia despues de que se emitieron	Servicio	0
+Lentitud / precio	Precio	1
+caro	Precio	1
+La programacion es pesima y como nuestro representante ante las señales de origen no hacen nada. Diferencia de volumen, diferencia de calidad repeticion infinita de peliculas olvidables.	Contenido	2
+Fallas en el servicio para ver programas anteriores o atrasar 	Servicio	0
+Los adicionales por sumar canales son caros y El internet funciona mal. Tiene. Buena atencion.	Precio	1
+el costo	Precio	1
+Es un buen programa pero lamentablemente a mi no me funciona muy bien, a veces no me deja ver cosas dentro de las ultimas 24hs, se me reincia constantemente (3 o 4 veces al dia) a veces tampoco me guarda las las grabaciones.	Servicio	0
+Caro, Malo, no dan respuesta a las fallas, etc etc etc	Precio	1
+quiero ver una serie desde el principio y no me permite	Servicio	0
+Al querer ver un programa  emitido siempre tiene problemas de reproduccion 	Servicio	0
+siempre da algun problema tecnico, lad apps nunca funcionan, la factura siempre viene mas alta de lo que deberia 	Servicio	0
+ el mejor contenido es pago	Contenido	2
+No siempre funciona	Servicio	0
+Los dias de alta demanda, la aplicacion tiene demoras en la conexion. Por ej, Partidos de la Seleccion 	Servicio	0
+Es caro y la verdad que repiten mucho	Precio	1
+Solo lo uso para ver futbol	Contenido	2
+funcion moderadamente bien	Servicio	0
