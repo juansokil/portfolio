@@ -12,7 +12,9 @@
 	* [Bert - Text Classification MultiLabel- Predictions](https://github.com/juansokil/portfolio/blob/main/Bert-for-text-classification/Bert_For_Text_Prediction.ipynb)
 
 * Data visualization
-* [Covid-19](https://github.com/juansokil/Covid-19)
+	* [Interactive Shiny´s dashboard to explore quantitative indicators](https://juanpablosokil.shinyapps.io/Reporte_Tesis/)
+
+
 
 ## General info
 This is a portfolio
