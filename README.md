@@ -1,4 +1,6 @@
-## Table of contents / Índice - In Progress
+# Portfolio in Progress
+
+## Table of contents / Índice
 
 *  Data Engineering
 	* [Upload Json to Elasticsearch - Opensearch (non sql)](https://github.com/juansokil/portfolio/blob/main/ETL-non-sql-data/ETL%20json%20data.%20Python%20and%20Elasticsearch%20.ipynb)
@@ -14,23 +16,4 @@
 * Data visualization
 	* [Interactive Shiny´s dashboard to explore quantitative indicators](https://juanpablosokil.shinyapps.io/Reporte_Tesis/)
 
-
-
-## General info
-This is a portfolio
-	
-## Technologies
-Project is created with:
-* Lorem version: 12.3
-* Ipsum version: 2.33
-* Ament library version: 999
-	
-## Setup
-To run this project, install it locally using npm:
-
-```
-$ cd ../lorem
-$ npm install
-$ npm start
-```
 
