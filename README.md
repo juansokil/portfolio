@@ -10,6 +10,7 @@
 
 
 *  Natural Language Processing
+	* [Spacy - Feature Extraction](https://github.com/juansokil/portfolio/blob/main/Bert-for-text-classification/Bert_For_Text_Classification.ipynb)
 	* [Bert - Text Classification MultiLabel- Fine Tuning](https://github.com/juansokil/portfolio/blob/main/Bert-for-text-classification/Bert_For_Text_Classification.ipynb)
 	* [Bert - Text Classification MultiLabel- Predictions](https://github.com/juansokil/portfolio/blob/main/Bert-for-text-classification/Bert_For_Text_Prediction.ipynb)
 
