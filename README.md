@@ -3,21 +3,20 @@
 ## Table of contents / Índice
 
 *  Data Engineering
-	* [Upload Json to Elasticsearch - Opensearch (non sql)](https://github.com/juansokil/portfolio/blob/main/ETL-non-sql-data/ETL%20json%20data.%20Python%20and%20Elasticsearch%20.ipynb)
-	* [Migration between Elasticsearch indexes using Helpers](https://github.com/juansokil/portfolio/blob/main/ETL-non-sql-data/ETL%20Bulk%20Data%20Migration%20Elasticsearch.ipynb)
-	* [Scroll and update APIS in Elasticsearch](https://github.com/juansokil/portfolio/blob/main/ETL-non-sql-data/ETL%20scroll-update%20APIs%20Elasticsearch.ipynb)
-	* [Upload Json to MongoDb (non sql)](https://github.com/juansokil/portfolio/blob/main/ETL-non-sql-data/ETL%20json%20data%20Python%20and%20MongoDB.ipynb)
+	* [Upload Json to Elasticsearch - Opensearch (non sql)](https://github.com/juansokil/portfolio/blob/main/data_engineering/ETL-non-sql-data/ETL%20json%20data.%20Python%20and%20Elasticsearch%20.ipynb)
+	* [Migration between Elasticsearch indexes using Helpers](https://github.com/juansokil/portfolio/blob/main/data_engineering/ETL-non-sql-data/ETL%20Bulk%20Data%20Migration%20Elasticsearch.ipynb)
+	* [Scroll and update APIS in Elasticsearch](https://github.com/juansokil/portfolio/blob/main/data_engineering/ETL-non-sql-data/ETL%20scroll-update%20APIs%20Elasticsearch.ipynb)
+	* [Upload Json to MongoDb (non sql)](https://github.com/juansokil/portfolio/blob/main/data_engineering/ETL-non-sql-data/ETL%20json%20data%20Python%20and%20MongoDB.ipynb)
 
 
 *  Natural Language Processing
-	* [Spacy - Feature Extraction](https://github.com/juansokil/portfolio/blob/main/Bert-for-text-classification/Bert_For_Text_Classification.ipynb)
-	* [Bert - Text Classification MultiLabel- Fine Tuning](https://github.com/juansokil/portfolio/blob/main/Bert-for-text-classification/Bert_For_Text_Classification.ipynb)
-	* [Bert - Text Classification MultiLabel- Predictions](https://github.com/juansokil/portfolio/blob/main/Bert-for-text-classification/Bert_For_Text_Prediction.ipynb)
+	* [Spacy - Feature Extraction](https://github.com/juansokil/portfolio/blob/main/nlp/feature-extraction/extraccion_features_spacy.ipynb)
+	* [Bert - Text Classification MultiLabel](https://github.com/juansokil/portfolio/tree/main/nlp/Bert-for-text-classification)
 
 * Data visualization
 	* [Interactive Shiny´s dashboard to explore quantitative indicators](https://juanpablosokil.shinyapps.io/Reporte_Tesis/)
 
 * Cloud
-	* [GCP - BigqueryML](https://juanpablosokil.shinyapps.io/Reporte_Tesis/)
+	* [GCP - BigqueryML](https://github.com/juansokil/portfolio/tree/main/cloud/bigqueryML)
 
 
