@@ -17,4 +17,7 @@
 * Data visualization
 	* [Interactive Shiny´s dashboard to explore quantitative indicators](https://juanpablosokil.shinyapps.io/Reporte_Tesis/)
 
+* Cloud
+	* [GCP - BigqueryML](https://juanpablosokil.shinyapps.io/Reporte_Tesis/)
+
 
