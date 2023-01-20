@@ -8,6 +8,7 @@
 	* [Scroll and update APIS in Elasticsearch](https://github.com/juansokil/portfolio/blob/main/data_engineering/non-sql/ETL%20scroll-update%20APIs%20Elasticsearch.ipynb)
 	* [Upload Json to MongoDb (non sql)](https://github.com/juansokil/portfolio/blob/main/data_engineering/non-sql/ETL%20json%20data%20Python%20and%20MongoDB.ipynb)
 	* [Postgres ETL Examples](https://github.com/juansokil/portfolio/blob/main/data_engineering/sql/some_queries.sql)
+	* ETL with Logstash - migrate data between sources applying transformations
 
 
 *  Natural Language Processing
