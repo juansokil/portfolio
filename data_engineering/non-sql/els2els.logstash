@@ -1,0 +1,60 @@
+# encoding: utf-8
+
+input {
+  elasticsearch {
+    hosts => "172.31.54.163:9200"
+    index => "pat_wo"
+###NO QUERY###
+    #query => '{ "query": { "query_string": { "query": "*" } } }'
+###FILTER BY YEAR###
+    query => '{"query": {"match": {"pub_year": {"query": "2021"}}}}'
+    size => 500
+    scroll => "5m"
+    docinfo => true
+  }
+}
+
+filter {
+  mutate {
+add_field => {'id' => "%{[@metadata][_id]}"}
+add_field => {'url' => "http://worldwide.espacenet.com/searchResults?NUM=%{id}&DB=EPODOC&locale=en_EP&ST=number&compact=false"}
+copy =>   { "[abstract_en]"  => "ab" }
+copy =>   { "[title_en]"  => "ti" }
+copy =>   { "[applicants]"  => "applicant" }
+remove_field => [ "[inventors]" ]
+remove_field => [ "[@metadata]" ]
+  }
+
+
+
+###COMO EXISTE UN ORDEN DE PRIORIDADES PRIMERO DEBO HACER TODAS LAS COPIAS DE LAS VARIABLES Y LUEGO APLICAR LAS TRANSFORMACIONES###
+
+#############GENERALES##########
+
+mutate {
+  gsub => ["applicant", "OREAL", "LOREAL"]
+}
+
+
+}
+
+
+
+
+output {
+   stdout { }
+   
+  elasticsearch {
+      hosts => "host:port"
+     index => "index_name"
+     document_id => "%{[id]}"
+     document_type => "article"   
+   
+ }
+ 
+ }
+}
+
+ 
+
+
