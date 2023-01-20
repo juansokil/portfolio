@@ -1,0 +1,40 @@
+# encoding: utf-8
+
+input {
+  elasticsearch {
+    hosts => "localhost:port"
+    index => "index_name"
+    query => '{ "query": { "query_string": { "query": "year:2022"  } } }'
+    size => 500
+    scroll => "5m"
+    docinfo => true
+  }
+}
+
+
+filter {
+  
+  mutate {
+add_field => {'id' => "%{[@metadata][_id]}"}
+copy => { "[abstract]"  => "ab" }
+copy =>   { "[year]"  => "py" }]
+remove_field => [ "[country]" ]
+remove_field => [ "[@metadata]" ]
+remove_field => [ "[@timestamp]" ]
+remove_field => [ "[@version]" ]
+  }
+ }
+
+
+
+
+ 
+output {
+
+stdout { codec => dots }
+  csv {fields => ['id','ab','py']
+      path => './file.csv'}
+}
+
+ 
+
